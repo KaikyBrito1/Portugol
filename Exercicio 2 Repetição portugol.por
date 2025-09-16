@@ -1,0 +1,27 @@
+programa
+{
+	
+	funcao inicio()
+	{
+		inteiro salario = 0 , total = 0
+		escreva("Informe o salario das pessoas da sua familia(0 para encerrar): ")
+		leia(salario)
+		enquanto(salario > 0){
+		total = total + salario
+			escreva("Informe novo salario(0 para encerrar):" )
+		leia(salario)}
+			escreva("Salario da sua familia é: ", total)
+		
+	}
+}
+/* $$$ Portugol Studio $$$ 
+ * 
+ * Esta seção do arquivo guarda informações do Portugol Studio.
+ * Você pode apagá-la se estiver utilizando outro editor.
+ * 
+ * @POSICAO-CURSOR = 344; 
+ * @PONTOS-DE-PARADA = ;
+ * @SIMBOLOS-INSPECIONADOS = ;
+ * @FILTRO-ARVORE-TIPOS-DE-DADO = inteiro, real, logico, cadeia, caracter, vazio;
+ * @FILTRO-ARVORE-TIPOS-DE-SIMBOLO = variavel, vetor, matriz, funcao;
+ */
