@@ -1,0 +1,35 @@
+programa
+{
+	
+	funcao inicio()
+	{
+	inteiro numero
+	escreva("Digite um numero: ")
+	leia(numero)
+
+	escreva(numero * 1, ",")
+	escreva(numero * 2, ",")
+	escreva(numero * 3, ",")
+	escreva(numero * 4, ",")
+	escreva(numero * 5, ",")
+	escreva(numero * 6, ",")
+	escreva(numero * 7, ",")
+	escreva(numero * 8, ",")
+	escreva(numero * 9, ",")
+	escreva(numero * 10, ",")
+	
+	
+		
+	}
+}
+/* $$$ Portugol Studio $$$ 
+ * 
+ * Esta seção do arquivo guarda informações do Portugol Studio.
+ * Você pode apagá-la se estiver utilizando outro editor.
+ * 
+ * @POSICAO-CURSOR = 359; 
+ * @PONTOS-DE-PARADA = ;
+ * @SIMBOLOS-INSPECIONADOS = ;
+ * @FILTRO-ARVORE-TIPOS-DE-DADO = inteiro, real, logico, cadeia, caracter, vazio;
+ * @FILTRO-ARVORE-TIPOS-DE-SIMBOLO = variavel, vetor, matriz, funcao;
+ */
