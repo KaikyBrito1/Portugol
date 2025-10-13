@@ -1,0 +1,25 @@
+programa
+{
+	
+	funcao inicio()
+	{
+		real numhoras, valordia, valorsem
+		escreva ("Digite horas trabalhadas: ")
+		leia(numhoras)
+		valordia = numhoras * 30
+		valorsem = valordia * 5
+		escreva ("Valor recebido no dia é: ", valordia)
+		escreva ("\n Valor recebido na semana é: ", valorsem) 
+	}
+}
+/* $$$ Portugol Studio $$$ 
+ * 
+ * Esta seção do arquivo guarda informações do Portugol Studio.
+ * Você pode apagá-la se estiver utilizando outro editor.
+ * 
+ * @POSICAO-CURSOR = 250; 
+ * @PONTOS-DE-PARADA = ;
+ * @SIMBOLOS-INSPECIONADOS = ;
+ * @FILTRO-ARVORE-TIPOS-DE-DADO = inteiro, real, logico, cadeia, caracter, vazio;
+ * @FILTRO-ARVORE-TIPOS-DE-SIMBOLO = variavel, vetor, matriz, funcao;
+ */
